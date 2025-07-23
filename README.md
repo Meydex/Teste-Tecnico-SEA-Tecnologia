@@ -54,11 +54,11 @@ Apresentação dos resultados:
 # Exemplos de testes em execução
 - Teste de fluxo válido
 
-- [CT-07 teste de fluxo](evidencias_de_teste\evidencia_sucedidos\CT-07\teste_1_preenche_formulario_e_sobe_imagem(GIF).gif)
+- ![CT-07 teste de fluxo](evidencias_de_teste\evidencia_sucedidos\CT-07\teste_1_preenche_formulario_e_sobe_imagem(GIF).gif)
 
 - Corrigindo teste no html para evidência técnica
 
-- [BG-02 correção do botão](evidencias_de_teste\evidencias_de_bugs\BG-02\Bug-02_correcao_do_botao(GIF).gif)
+- ![BG-02 correção do botão](evidencias_de_teste\evidencias_de_bugs\BG-02\Bug-02_correcao_do_botao(GIF).gif)
 
 
 # Observações
